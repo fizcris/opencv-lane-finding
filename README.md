@@ -71,6 +71,8 @@ For an explanation of each technique see the Jupyter Notebook file of the projec
 - Improve impelmentation of video frame smoothing
   - Try objects and classes?
 - Why sometimes the polyfit does not fidn a straight even there are suitable hough lines
+- Kalman filter [check this](http://www.sci.utah.edu/~gerig/CS6320-S2013/Materials/MI37slides-Kalman.pdf)
+- Use curved lines instead of straights
 
 **Tools available**
 
