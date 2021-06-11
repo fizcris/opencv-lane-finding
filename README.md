@@ -1,6 +1,6 @@
 # **Finding Lane Lines on the Road**
 
-<img src="test_videos_output/challenge_.gif" width="480" alt="Challenge video" />
+<img src="test_videos_output/challenge.gif" width="480" alt="Challenge video" />
 
 ## Overview
 
